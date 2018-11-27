@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99615c08-ccf7-4f9d-b4cb-3b5790d6fbdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleaning-image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-pos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dowload-image-bylink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/155.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/196.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/203.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/221.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/226.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/227.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/238.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/243.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/246.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/247.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/248.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/249.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/251.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/252.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/253.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/254.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/258.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/259.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/260.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/261.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/262.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/264.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/265.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/266.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/267.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/268.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/269.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/270.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/271.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/272.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/273.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/275.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/276.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/279.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/281.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/282.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/283.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/284.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/285.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/286.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/287.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/289.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/290.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/291.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/295.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/297.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/299.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/302.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/303.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/305.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/307.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/308.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/309.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/311.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/313.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/315.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/87.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/91.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/92.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/93.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neg/99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_qt/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create-neg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/create-pos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/create-pos.py" />
+        <option value="$PROJECT_DIR$/create-neg.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dataset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.create-neg">
+    <configuration name="create-neg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create-neg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create-pos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create-pos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.create-neg" />
+        <item itemvalue="Python.create-pos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99615c08-ccf7-4f9d-b4cb-3b5790d6fbdd" name="Default Changelist" comment="" />
+      <created>1543309891602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543309891602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18154761" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/create-neg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create-pos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
